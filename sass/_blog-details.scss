@@ -1,14 +1,14 @@
 /*---------------------
-  Blog Details
+  FAQs Details
 -----------------------*/
-.blog__details {
+.FAQs__details {
     padding-top: 120px;
     padding-bottom: 120px;
 }
 
-.blog__details__content {
+.FAQs__details__content {
 
-    .blog__item__quote {
+    .FAQs__item__quote {
         margin-bottom: 40px;
 
         p {
@@ -19,7 +19,7 @@
     }
 }
 
-.blog__details__title {
+.FAQs__details__title {
     margin-bottom: 32px;
 
     ul {
@@ -79,7 +79,7 @@
     }
 }
 
-.blog__details__text {
+.FAQs__details__text {
     margin-bottom: 35px;
 
     p {
@@ -93,7 +93,7 @@
     }
 }
 
-.blog__details__pic {
+.FAQs__details__pic {
     margin-bottom: 35px;
 
     img {
@@ -102,11 +102,11 @@
     }
 }
 
-.blog__details__widget {
+.FAQs__details__widget {
     margin-bottom: 45px;
 }
 
-.blog__details__tags {
+.FAQs__details__tags {
     margin-bottom: 20px;
 
     span {
@@ -151,7 +151,7 @@
     }
 }
 
-.blog__details__social {
+.FAQs__details__social {
     text-align: right;
     margin-bottom: 20px;
 
@@ -167,14 +167,14 @@
     }
 }
 
-.blog__details__author {
+.FAQs__details__author {
     background: #f8f8f8;
     padding: 50px;
     overflow: hidden;
     margin-bottom: 40px;
 }
 
-.blog__details__author__pic {
+.FAQs__details__author__pic {
     float: left;
     margin-right: 50px;
     height: 140px;
@@ -182,7 +182,7 @@
     border-radius: 50%;
 }
 
-.blog__details__author__text {
+.FAQs__details__author__text {
     overflow: hidden;
 
     h5 {
@@ -200,35 +200,35 @@
     }
 }
 
-.blog__details__btns {
+.FAQs__details__btns {
     margin-bottom: 50px;
 }
 
-.blog__details__btns__item {
+.FAQs__details__btns__item {
     margin-bottom: 25px;
     display: block;
     overflow: hidden;
 
-    &.blog__details__btns__item--next {
+    &.FAQs__details__btns__item--next {
 
-        .blog__details__btns__item__pic {
+        .FAQs__details__btns__item__pic {
             float: right;
             margin-left: 30px;
             margin-right: 0;
         }
 
-        .blog__details__btns__item__text {
+        .FAQs__details__btns__item__text {
             text-align: right;
         }
     }
 }
 
-.blog__details__btns__item__pic {
+.FAQs__details__btns__item__pic {
     float: left;
     margin-right: 30px;
 }
 
-.blog__details__btns__item__text {
+.FAQs__details__btns__item__text {
     overflow: hidden;
     padding-top: 16px;
 
@@ -253,7 +253,7 @@
     }
 }
 
-.blog__details__comment__form {
+.FAQs__details__comment__form {
 
     h4 {
         color: $heading-color;
